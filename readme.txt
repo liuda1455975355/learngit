@@ -3,3 +3,4 @@ liuda learn how to use git
 bingbingbing 
 I just want to be married again
 creating a new branch 
+no-off merge delete
